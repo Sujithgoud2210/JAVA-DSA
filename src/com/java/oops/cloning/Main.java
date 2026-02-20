@@ -1,4 +1,4 @@
-package com.java.oops.Cloning;
+package com.java.oops.cloning;
 
 import java.util.Arrays;
 
