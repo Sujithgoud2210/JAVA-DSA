@@ -6,7 +6,6 @@ public class Main {
         Human human1 = new Human(32, "sujith1", 11000, true);
         Human human2 = new Human(24, "sujith2", 15000, false);
         System.out.println(human1);
-
-
+        System.out.println(human1.population);
     }
 }
