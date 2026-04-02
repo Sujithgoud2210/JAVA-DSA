@@ -8,4 +8,10 @@ public class Main {
         System.out.println(human1);
         System.out.println(human1.population);
     }
+    static void greet(){
+        System.out.println("hello");
+    }
+    void greet(String msg){
+        System.out.println("greeting");
+    }
 }
