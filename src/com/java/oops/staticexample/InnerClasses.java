@@ -13,8 +13,10 @@ public class InnerClasses {
     public static void main(String[] args) {
        Test a= new Test("sujith");
        Test b=new Test("sujith1");
+        System.out.println(a.name);
+        System.out.println(b.name);
     }
 }
-static class A{
-
-}
+//static class A{
+//
+//}
