@@ -10,5 +10,6 @@ static {
 
     public static void main(String[] args) {
         StaticInt obj =new StaticInt();
+        System.out.println(StaticInt.a+ ""+StaticInt.b);
     }
 }
